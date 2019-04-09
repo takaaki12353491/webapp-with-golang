@@ -8,7 +8,8 @@ import (
 	"os"
 	"path/filepath"
 	"sync"
-	"trace"
+
+	"github.com/takaaki12353491/webapp-with-golang/trace"
 )
 
 // templは１つのテンプレートを表します
